@@ -7,7 +7,7 @@
 # while i<=10:
 #     print(i)
 #     i = i+1 
-#     # or i += 1
+    # or i += 1
 
 # l1 = [1,2,3,4,7,"hello"]
 # for i in l1:
@@ -32,7 +32,8 @@
 
 # for loop with else statement
 
-l = [1,2,3,4,7,9]
-for i in l:
-    print(i)
-else:    print("loop is completed") 
+# l = [1,2,3,4,7,9]
+# for i in l:
+#     print(i)
+# else:    print("loop is completed") 
+
