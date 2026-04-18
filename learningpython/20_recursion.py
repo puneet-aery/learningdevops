@@ -14,3 +14,4 @@ def factoraial(n):
     
 n = int(input("Enter a number to find its factorial: "))
 print(f"The factorial of {n} is: {factoraial(n)}") # printing the result of the function call
+print("the factorial of", n, "is", factoraial(n)) # another way to print the result of the function call
