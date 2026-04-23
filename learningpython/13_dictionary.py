@@ -1,4 +1,4 @@
-# dictionary is set of key value pairs. It is unordered, changeable and indexed. No duplicate members.
+# dictionary is set of key value pairs. It is unordered, changeable and indexed. No duplicate keys.
 
 marks = {"puneet" :100,"sharma":97,"list":[1,2,3],"0": 50}
 # print(type(marks),marks)
